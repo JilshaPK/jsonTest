@@ -1,14 +1,21 @@
 {
-  "posts":
-    { "id": 3, "title": "Post 3" }
+  "attractions":[
+  {"attr_id":1,"name":"Adhari Park"},
+    {"attr_id":2,"name":"Ain Umm Sujoor"},
+    {"attr_id":3,"name":"Al Areen Wildlife Park"},
+     {"attr_id":4,"name":"Al Fateh Mosque"},
+    {"attr_id":5,"name":"Al Khamis Mosque"},
+    {"attr_id":6,"name":"Al-Qudaibiya Palace"}]
   ,
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Hotels":[{"hot_id":1,"name":"gulf hotel"},
+             {"hot_id":2,"name":"Four Seasons"},
+            {"hot_id":3,"name":"Awal"},
+            {"hot_id":4,"name":"Ramada"}]
   ,
-  "Events":{"test":"TEST1"}
+  "Events": [
+     {"eve_id":1,"name":"Al Ain Book Fair,2019"},
+    {"eve_id":2,"name":"9 before 9"},
+    {"eve_id":3,"name":"The Outlet exhibition"},
+     {"eve_id":4,"name":"Al Dhafra Exibition"},
+  ]
 }
