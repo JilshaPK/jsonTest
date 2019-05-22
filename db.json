@@ -10,5 +10,5 @@
     "name": "typicode"
   }
   ,
-  "Events":{"test","TEST1"}
+  "Events":{"test":"TEST1"}
 }
