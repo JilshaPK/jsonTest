@@ -3,8 +3,7 @@
   {"attr_id":1,"name":"Adhari Park","imgUrl":"https://images.musement.com/cover/0002/52/thumb_151862_cover_header.jpeg"},
     {"attr_id":2,"name":"Ain Umm Sujoor","imgUrl":"https://d3jf2jipiivcgq.cloudfront.net/d85cd9d604c2ea55be0f71d23f8fce5b81cc74e4.jpg"},
     {"attr_id":3,"name":"Al Areen Wildlife Park","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Al_Areen_Wildlife_Park_Artificial_Pond.jpg"},
-     {"attr_id":4,"name":"Al Fateh Mosque","imgUrl":""},
-    ]
+     {"attr_id":4,"name":"Al Fateh Mosque","imgUrl":""}]
   ,
   "Hotels":[{"hot_id":1,"name":"gulf hotel","imgUrl":"https://t-ec.bstatic.com/images/hotel/max1024x768/149/14943558.jpg"},
              {"hot_id":2,"name":"Four Seasons","imagUrl":"https://s-ec.bstatic.com/images/hotel/max1280x900/476/47611577.jpg"},
