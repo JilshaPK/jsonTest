@@ -9,7 +9,7 @@
              {"hot_id":2,"name":"Four Seasons","imagUrl":"https://s-ec.bstatic.com/images/hotel/max1280x900/476/47611577.jpg"},
             {"hot_id":3,"name":"Sheraton","imgUrl":"http://modabahrain.com/wp-content/uploads/Sheraton-380x250.jpg"}]
   ,
-  "Events": [
+  "Events":[
      {"eve_id":1,"name":"Al Ain Book Fair,2019","imgUrl":"https://www.alpsp.org/write/MediaUploads/Exhibitions/2015_LBF_stand.jpg"},
     {"eve_id":2,"name":"9 before 9"},
     {"eve_id":3,"name":"The Outlet exhibition","imgUrl":"https://culture360.asef.org/media/2017/11/295chD8_germanart_loans05.jpg"},
