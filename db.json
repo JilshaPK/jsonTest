@@ -30,7 +30,7 @@
     {
       "hot_id": 2,
       "name": "Four Seasons",
-      "imagUrl": "https://s-ec.bstatic.com/images/hotel/max1280x900/476/47611577.jpg"
+      "imgUrl": "https://s-ec.bstatic.com/images/hotel/max1280x900/476/47611577.jpg"
     },
     {
       "hot_id": 3,
@@ -47,6 +47,8 @@
     {
       "eve_id": 2,
       "name": "9 before 9"
+      "imgUrl": ""
+
     },
     {
       "eve_id": 3,
@@ -56,6 +58,8 @@
     {
       "eve_id": 4,
       "name": "Al Dhafra Exibition"
+      "imgUrl": ""
+
     }
   ]
 }
