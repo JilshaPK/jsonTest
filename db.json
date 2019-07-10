@@ -1,4 +1,4 @@
-{"jobs":[
+{"attractions":[
   {
 "jobname":"Electrician per hour",
 "location":"manama",
@@ -31,9 +31,12 @@
 "jobname":"Monthly swimming pool maintenance contract",
 "location":"manama",
 "status":"cancelled",
-"date":"Apr 08,2019 12:15pm"},
-  {"jobname":"Plumbing Emergency",
+"date":"Apr 08,2019 12:15pm"
+  },
+  {
+ "jobname":"Plumbing Emergency",
 "location":"manama",
 "status":"completed",
-"date":"Apr 08,2019 12:15pm"}]
+"date":"Apr 08,2019 12:15pm"}
+]
 }
